@@ -52,9 +52,17 @@ content: [
 ```
 
 4. Add the `@tailwind` directives for each of Tailwind’s layers to your `./src/index.css` file.
+   
 ```
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 ```
+
+5. Start your build process
    
+```
+npm run dev
+```
+
+6. Start using Tailwind in your project
