@@ -92,7 +92,7 @@ plugins: [..., 'simple-import-sort']
 
 4. Open `settings.json` in vscode configuration settings
 
-5. Add the folowing line
+5. Add the following line
 ```
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
